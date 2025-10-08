@@ -1,0 +1,1 @@
+{"name":"Local: Mex","url":"/run/media/hasan/91a0802d-14ee-4c99-9275-f3f4c0cca2fc/XCPC/Week 01/Day 02/Mex.cpp","tests":[{"id":1759784555229,"input":"5\n0 1 2 4 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/run/media/hasan/91a0802d-14ee-4c99-9275-f3f4c0cca2fc/XCPC/Week 01/Day 02/Mex.cpp","group":"local","local":true}
