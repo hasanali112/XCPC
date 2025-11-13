@@ -1,0 +1,1 @@
+{"name":"Local: sliding_window","url":"/home/hasan/My Project/XCPC/Week 06/sliding_window.cpp","tests":[{"id":1762782564690,"input":"8 3\n2 3 4 2 6 2 5 1","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hasan/My Project/XCPC/Week 06/sliding_window.cpp","group":"local","local":true}
